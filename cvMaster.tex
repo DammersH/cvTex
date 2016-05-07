@@ -6,7 +6,7 @@
 % available at http://www.latex-project.org/lppl/.
 
 
-\documentclass[11pt,a4paper,sans]{moderncv}
+\documentclass[10pt,a4paper,sans]{moderncv}
 
 \input{config/preambel}
 
@@ -18,10 +18,21 @@
 \begin{document}
 \maketitle
 
-\include{content/study}
+\input{content/employment}
 
-\include{content/internship}
+\input{content/internship}
 
-\include{content/misc}
+\input{content/study}
+
+\input{content/misc}
+
+\input{content/skills}
+
+% Signature
+% \emptysection \closesection
+% \includegraphics[scale=0.25]{media/Unterschrift_hendrik}
+% \newline{}
+% Münster, \today
+
 
 \end{document}
