@@ -7,4 +7,4 @@ Will be available in english and german.
 2. ~~Write basic layout~~
   * Repeat until !basic
 3. ~~Add english content~~
-4. Branch and add german content
+4. ~~Branch and add german content~~
