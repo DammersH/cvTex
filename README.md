@@ -8,3 +8,4 @@ Will be available in english and german.
   * Repeat until !basic
 3. ~~Add english content~~
 4. ~~Branch and add german content~~
+5. Change IT Skills layout
