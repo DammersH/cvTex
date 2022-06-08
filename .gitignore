@@ -1,4 +1,6 @@
+## Unwantend folders
 .idea
+out
 
 ##Personal files
 Unterschrift_hendrik.jpg
@@ -82,8 +84,6 @@ acs-*.bib
 # gnuplottex
 *-gnuplottex-*
 
-# hyperref
-*.brf
 
 # knitr
 *-concordance.tex
@@ -111,9 +111,6 @@ _minted*
 
 # morewrites
 *.mw
-
-# mylatexformat
-*.fmt
 
 # nomencl
 *.nlo
